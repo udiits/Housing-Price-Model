@@ -99,7 +99,7 @@ And other relevant features
 
 🖥️ How to Run Locally
 1. Clone this repository
-git clone https://github.com/uditits/Housing-Price-Model.git
+git clone https://github.com/udiits/Housing-Price-Model.git
 
 2. Install dependencies
 pip install -r requirements.txt
