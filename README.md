@@ -73,12 +73,6 @@ Avoiding overfitting & underfitting
 
 5️⃣ Evaluation
 
-R² score
-
-MAE
-
-MSE / RMSE
-
 Model performance comparison
 
 6️⃣ Prediction
@@ -91,11 +85,6 @@ BHK (Bedrooms)
 
 Bathrooms
 
-Square footage
-
-Floors
-
-And other relevant features
 
 🖥️ How to Run Locally
 1. Clone this repository
@@ -125,8 +114,6 @@ Housing-Price-Model/
 📈 Results
 
 Model successfully predicts housing prices based on user inputs
-
-Achieved strong accuracy (R² / RMSE — you may update exact values)
 
 Visual insights are provided inside the notebook
 
